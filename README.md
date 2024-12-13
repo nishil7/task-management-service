@@ -1,29 +1,17 @@
 # task-management-service
 
-Task Management System Frontend
-
-Content
-
-Project Requirements
-Project Overview
-How to setup the Project ?
+Task Management System Backend <br>
 
 
-Getting started
-1. Project Requirements
+Getting started <br>
 
+How to run the Project ? <br>
 
+Clone this repo. <br>
+Clone user authentication Service from this link (https://github.com/nishil7/user-authentication-service) and run the service. <br>
+Clone Task Management Service from this link (https://github.com/nishil7/TaskSphere-task-management-dashboard-frontend-service) and run the service. <br>
+Run yarn install <br>
 
-2. Project Overview
-
-
-3. How to run the Project ?
-
-Clone this repo.
-Clone user authentication Service from this link and run the service.
-Clone Task Management Service from this link and run the service.
-Run yarn install
-
-Run yarn run dev
+Run yarn dev <br>
 
 The Dashboard service will run on http://localhost:3000/
